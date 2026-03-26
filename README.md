@@ -67,7 +67,7 @@ The dataset contains H1B visa application records with the following fields:
 
 ## 📷 Dashboard Preview
 
-![H1B Dashboard](h1b-dashboard.png.jpeg
+![H1B Dashboard](h1b-dashboard.png.jpeg)
 
 ---
 
