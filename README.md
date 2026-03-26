@@ -1,7 +1,7 @@
 # H1B-Visa-Dashboard
 # 📊 H1B Visa Data Analysis Dashboard
 
-## 📌 Overview
+##  Overview
 
 This project analyzes H1B visa application data to uncover trends in employer hiring, salary distribution, job roles, and geographical demand.
 The objective is to transform raw data into meaningful insights using data cleaning, analysis, and visualization techniques.
@@ -29,7 +29,7 @@ The dataset contains H1B visa application records with the following fields:
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Data Collection
 2. Data Cleaning using SQL
@@ -73,6 +73,6 @@ The dataset contains H1B visa application records with the following fields:
 ## 📌 Business Impact
 This dashboard helps in understanding hiring trends, salary benchmarks, and high-demand job roles, which can support better decision-making for applicants and employers.
 
-## 🚀 Author
+##  Author
 
 **Anu** – Aspiring Data Analyst
