@@ -70,6 +70,8 @@ The dataset contains H1B visa application records with the following fields:
 ![H1B Dashboard](h1b-dashboard.png.jpeg)
 
 ---
+## 📌 Business Impact
+This dashboard helps in understanding hiring trends, salary benchmarks, and high-demand job roles, which can support better decision-making for applicants and employers.
 
 ## 🚀 Author
 
