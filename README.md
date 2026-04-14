@@ -46,7 +46,6 @@ The dataset contains H1B visa application records with the following fields:
 * Observed hiring patterns across locations
 * Explored demand trends for different positions
 - Most Common Job Roles
-- Salary Distribution & outliers (H1B)
 - State-wise job opportunities
 - Identified top employers sponsoring H1B visas
 - Analyzed salary distribution across different job roles
@@ -67,7 +66,8 @@ The dataset contains H1B visa application records with the following fields:
 
 ## 📷 Dashboard Preview
 
-![H1B Dashboard](h1b-dashboard.png.jpeg)
+![H1B Dashboard]
+<img width="1484" height="811" alt="image" src="https://github.com/user-attachments/assets/06e25dd3-5689-4339-8984-9cce3781291b" />
 
 ---
 ## 📌 Business Impact
